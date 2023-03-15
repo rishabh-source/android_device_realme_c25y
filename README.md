@@ -1,2 +1,2 @@
 # android_device_realme_c25y
-it is the twrp recovery for realme c25y.
+Twrp recovery tree for realme c25y.
